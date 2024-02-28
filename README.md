@@ -1,3 +1,3 @@
 # template-podcast-demo
 
-Template do projeto upload do S3
+Template de um projeto realizado em live na qual realiza um upload de um arquivo no S3
